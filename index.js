@@ -7,7 +7,6 @@ const app = express();
 
 
 //set port to default
-
 const port = 8778
 
 //introducing users routes to sever
